@@ -29,8 +29,10 @@
 <br>
 <br>
 <div align="center">
+  <a href="https://github.com/AnaFSaraiva"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaFSaraiva&show_icons=true&theme=highcontrast&hide_rank=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFSaraiva&show_icons=true&theme=highcontrast">
+    </a>
 </div>
 <br>
   
