@@ -23,7 +23,7 @@
 
 > 🌱 Atualmente aprendendo:
 >  - TypeScript
->  - ReactJS
+>  - React
   
 
 <br>
