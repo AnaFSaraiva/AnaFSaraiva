@@ -1,5 +1,5 @@
 <h3 align="center"> "Hello World" </h3>
-<h1 align="center"> I'm Ana Paula Saraiva </h1>
+<h1 align="center"> Ana Paula Saraiva </h1>
 
 <p align="center"> <strong>Desenvolvedora Fullstack Junior & Estudante do Programa Desenvolve 2023</strong></p>
 <p align="center"> 📫 Me encontra aqui! </p> 
