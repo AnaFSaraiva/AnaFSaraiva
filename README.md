@@ -22,6 +22,7 @@
 <br>
 
 > 🌱 Atualmente aprendendo:
+>  - Cibersecurity
 >  - TypeScript
 >  - React
   
